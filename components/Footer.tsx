@@ -9,8 +9,6 @@ export default function Footer() {
                     className="w-full max-w-[300px] sm:max-w-[350px] lg:max-w-[400px] mx-auto"
                 />
             </div>
-
-            {/* Designer Library Section */}
             <div className="pt-6 sm:pt-8 lg:pt-10 pl-0 lg:pl-28">
                 <img
                     src="Ddsgnr Library.png"
@@ -19,7 +17,6 @@ export default function Footer() {
                 />
             </div>
 
-            {/* Links Section */}
             <div className="flex justify-center pt-6 sm:pt-8 lg:pt-10">
                 <div className="flex flex-wrap justify-center gap-4 sm:gap-6">
                     <img
@@ -40,7 +37,6 @@ export default function Footer() {
                 </div>
             </div>
 
-            {/* Credits Section */}
             <div className="flex justify-center pt-12 sm:pt-16 lg:pt-20 px-0 lg:px-28">
                 <img
                     src="Credits.png"
